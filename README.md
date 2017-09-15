@@ -11,7 +11,7 @@ rand_comp.py
 randomに生成した1~5の値で埋めた943*1682の行列と  
 評価行列の誤差RMSEを算出  
   
-ub_main3.py(未実装)  
+ub.py(未実装)  
 user based collaborative filtering  
 ユーザベースの協調フィルタリングによって,0値が埋められた943*1682の行列と  
 評価行列の誤差RMSEを算出  
